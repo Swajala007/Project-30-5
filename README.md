@@ -1,1 +1,2 @@
-# Project-30-5
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
